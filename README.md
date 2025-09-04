@@ -1,4 +1,4 @@
-# AWS DevOps CI/CD Pipeline – 7-Day Challenge
+# AWS DevOps CI/CD Pipeline
 
 ## Overview
 A learning project to build an end-to-end CI/CD pipeline on AWS over seven days—from code commit to automated deployment. I gained hands-on experience using Java, Maven, GitHub, and AWS services like EC2, S3, CodeArtifact, CodeBuild, CodeDeploy, and CodePipeline.
